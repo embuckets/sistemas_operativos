@@ -1,0 +1,4 @@
+Modifica uamashell para que se interrumpa como un verdadero shell. 
+Asegúrate que los procesos de segundo plano no sean afectados por SIGINT y SIGQUIT.
+Algunas variantes de Bourne shell  manejan los procesos en segundo plano cambiando los procesos a un grupo diferente. 
+¿ Cuales son las ventajas y desventajas de esta aproximación?

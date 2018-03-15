@@ -1,6 +1,5 @@
-#!/bin/sh
-#shell Script de compilacion de listarrec
- 
+#!/bin/bash
+#Shell Script de compilación de uamashell
 ACTUAL=$PWD
 cd ../../bin
 BIN=`pwd`

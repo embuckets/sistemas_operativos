@@ -1,0 +1,2 @@
+gcc -I../incl  correcomando.c dametoken.c error.c esargumento.c juntar.c \
+leerlinea.c procesa_pipe.c procesalinea.c sistema.c uamashell.c -o ../../bin/uamashell
